@@ -510,7 +510,7 @@ Hey <a href='tg://settings'>ᴍʏ ғʀɪᴇɴᴅ</a>
 
 ➣ Yᴏᴜ ᴄᴀɴ ᴄᴏɴɴᴇᴄᴛ ᴀs ᴍᴀɴʏ ɢʀᴏᴜᴘ ʏᴏᴜ ʜᴀᴠᴇ.
 
-Any Doubts or Not Connecting? Contact Me
+Any Doubts or Not Connecting? Contact Me """
 
    
 
