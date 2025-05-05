@@ -1958,9 +1958,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
             parse_mode=enums.ParseMode.HTML
         )
     elif query.data == "subscription":
-                buttons = [[
+        buttons = [[
             InlineKeyboardButton('⇋ ʙᴀᴄᴋ', callback_data='kannada_info'),
-	    InlineKeyboardButton('sʜᴀʀᴇ🗼', url=f'https://t.me/share/url?url=https://telegram.me/{temp.U_NAME}?start=IKBRYT-{query.from_user.id}'),
+	    InlineKeyboardButton('sʜᴀʀᴇ🗼', url=f'https://t.me/share/url?url=https://telegram.me/{temp.U_NAME}?start=VJ-{query.from_user.id}'),
 	    
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
