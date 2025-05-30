@@ -82,16 +82,16 @@ PAYMENT_TEXT = environ.get('PAYMENT_TEXT', '<b>- ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟ�
 
 
 # Clone Information : If Clone Mode Is True Then Bot Clone Other Bots.
-CLONE_MODE = bool(environ.get('CLONE_MODE', True)) # Set True or False
+CLONE_MODE = bool(environ.get('CLONE_MODE', False)) # Set True or False
 CLONE_DATABASE_URI = environ.get('CLONE_DATABASE_URI', "mongodb+srv://ikbryt666:YJIcbUwfBRsJVelb@cluster0.2odc3wb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0") # Necessary If clone mode is true
 PUBLIC_FILE_CHANNEL = environ.get('PUBLIC_FILE_CHANNEL', '+3B4WThZLn4ozNDc9') # Public Channel Username Without @ or without https://t.me/ and Bot Is Admin With Full Right.
 
 
 # Links
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+-ddJP4h1LWo4OTM9')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+CXdSFgRVbERmZDBl')
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'IKBRYTMOVIES') # Support Chat Link Without https:// or @
-OWNER_LNK = environ.get('OWNER_LNK', 'tg://settings')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+gnaNMp5LG7o0ZjE1')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+PL_--b5fXhY0NzQ9')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', '+OQEG7UeKGvxkMTk9') # Support Chat Link Without https:// or @
+OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/IKBRYTLinkz_official_bot')
 
 # True Or False
 AI_SPELL_CHECK = bool(environ.get('AI_SPELL_CHECK', True))
